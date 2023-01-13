@@ -33,7 +33,7 @@
 
 ---
 <div align="center">
- "[(https://github-readme-stats-urkg.vercel.app/api?username=AmiyaVatsa)](https://github.com/AmiyaVatsa/github-readme-stats)"
+ [![Anurag's GitHub stats](https://vercel.com/amiyavatsa/github-readme-stats-urkg/awr8aL9qPPqPeoa4rofy3fCuMxce/api?username=AmiyaVatsa)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
