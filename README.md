@@ -33,15 +33,8 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiyaVatsa&layout=compact&hide=ejs,html" alt="Most Used Languages" height="138px" />
+ "[![Amiya's GitHub stats](https://github-readme-stats-urkg.vercel.app/)](https://github.com/AmiyaVatsa/github-readme-stats)"
 </div>
-
----
-
-![](https://visitor-badge.laobi.icu/badge?page_id=AmiyaVatsa
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiyaVatsa&theme=tokyonight)
 
 
 ---
