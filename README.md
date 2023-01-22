@@ -33,7 +33,7 @@
 
 ---
 <div align="center">
- [![Anurag's GitHub stats](https://vercel.com/amiyavatsa/github-readme-stats-urkg/awr8aL9qPPqPeoa4rofy3fCuMxce/api?username=AmiyaVatsa)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiyaVatsa&layout=compact" alt="Most Used Languages" height="138px" />
 </div>
 
 
