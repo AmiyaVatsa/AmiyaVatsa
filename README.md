@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Amiya Vatsa </h1>
-<h3 align = "center"> I am pursuing Bachelor of Technology in Electronics and Communication from Institute of Technology, Guru Ghasidas Central University, Bilaspur, Chattisgarh </h3>
+<h3 align = "center"> I am pursuing BTech in Electronics and Communications Engineering from Institute of Technology, Guru Ghasidas Central University, Bilaspur, Chattisgarh </h3>
 
 [![An image of @amiyavatsa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amiyavatsa)](https://holopin.io/@amiyavatsa)
 
