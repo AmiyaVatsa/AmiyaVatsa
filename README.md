@@ -11,18 +11,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-<h2 align="center">Database</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-SQLite3-blue?logo=sqlite&logocolor=black&style=flat-square" alt="SQLite3" />
-</p>
-<h2 align="center">Integrated Development Environments</h2>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
-  </a>
-  
-</p>
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
   <a href="https://www.codechef.com/users/taurus388" target="_blank">
